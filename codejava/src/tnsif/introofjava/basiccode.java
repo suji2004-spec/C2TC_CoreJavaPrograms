@@ -6,7 +6,7 @@ public class basiccode {
 		double salary=50000.00;
 		boolean ispassed=true;
 		char grade='A';
-		double nweSalary=age;//data widening
+		double newSalary=age;//data widening
 		int roundSalary=(int)salary;//data narrowing
 		//Arithmetic operation
 		int increment=5000;
